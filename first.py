@@ -20,3 +20,5 @@ print(flag)
 flag = str1.replace('t','zer')
 print(flag)
 print(str1)
+
+
