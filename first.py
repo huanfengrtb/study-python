@@ -1,3 +1,4 @@
+# This Python file uses the following encoding: utf-8
 # 数学工具
 import math
 print(math.pi)
